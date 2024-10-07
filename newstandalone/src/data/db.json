@@ -1,0 +1,91 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "adminuser",
+      "password": "admin",
+      "role": "admin"
+    },
+    {
+      "id": "suser",
+      "name": "Sales user",
+      "password": "test",
+      "role": "salesman"
+    },
+    {
+      "id": "ntuser",
+      "password": "ntuser1",
+      "name": "Nt User",
+      "role": "salesman",
+      "gender": "m",
+      "email": "nt@in.com"
+    },
+    {
+      "id": "myuser",
+      "password": "admin",
+      "name": "My User",
+      "role": "supervisor",
+      "gender": "f",
+      "email": "my@my.com"
+    },
+    {
+      "id": "joe",
+      "password": "admin",
+      "name": "JoeyA",
+      "role": "supervisor",
+      "gender": "m",
+      "email": "j@j.com"
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "name": "Cricket bat",
+      "description": "High quality we can use for leather ball",
+      "price": 10000,
+      "status": true
+    },
+    {
+      "id": 3,
+      "name": "Stumber balls",
+      "description": "Rubber ball",
+      "price": "60",
+      "status": true
+    },
+    {
+      "id": 4,
+      "name": "Stumb",
+      "description": "New one there",
+      "price": "1000",
+      "status": true
+    },
+    {
+      "id": 5,
+      "name": "Mat",
+      "description": "New",
+      "price": "10000",
+      "status": true
+    },
+    {
+      "id": 6,
+      "name": "Batting glove",
+      "description": "Glover",
+      "price": "1000.35",
+      "status": true
+    },
+    {
+      "id": 7,
+      "name": "First Base",
+      "description": "base",
+      "price": "3.00",
+      "status": false
+    },
+    {
+      "id": 8,
+      "name": "Jersey",
+      "description": "Red color",
+      "price": "100",
+      "status": true
+    }
+  ]
+}
